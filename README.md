@@ -17,12 +17,14 @@ How did you increase layers of security? In the future, what would you use to as
 -In order to increase security I leveraged SHA-256 to protect our data, ensured error handling, and unneeded data exposure was minimalized, as well as incorporating the usage with extra security layers with HTTPS. In the future I will continue to use static tests to test for vulnerabilities. As my skills continue to improve, testing to expose the code myself will be something I plan to do.
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+
 -I tested to make the code secure by going through the code myself to check manually for any potential vulnerabilities. As well as using static analysis tools to automate the process more accurately for me. After I refactored the code for the improvement I wanted, I would repeat the process until there were no new vulnerabilities.
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 -In future tasks the use of static code analyzers, automated penetration testers, and API security scanners would all be very beneficial to polish security. Abiding by industry security standards, and incorporating a strong modular design can help create a scalable and secure system. 
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
 -I would show future employers my ability to identify and fix security vulnerabilities for their systems.
 -The capability to apply the best industry standards into their code (ex. cryptography standards, strong API design)
 -The ability to provide a detailed assessment of the security changes made to the refactored code. 
