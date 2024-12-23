@@ -21,6 +21,7 @@ How did you make certain the code and software application were functional and s
 -I tested to make the code secure by going through the code myself to check manually for any potential vulnerabilities. As well as using static analysis tools to automate the process more accurately for me. After I refactored the code for the improvement I wanted, I would repeat the process until there were no new vulnerabilities.
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
 -In future tasks the use of static code analyzers, automated penetration testers, and API security scanners would all be very beneficial to polish security. Abiding by industry security standards, and incorporating a strong modular design can help create a scalable and secure system. 
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
